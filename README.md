@@ -39,9 +39,9 @@ This page is my journey from the first lines of code to something bigger.
 ### Contribution snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lodo4ka-the-best/Git-cat/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lodo4ka-the-best/Git-cat/output/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/lodo4ka-the-best/Git-cat/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lodo4ka-the-best/lodo4ka-the-best/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lodo4ka-the-best/lodo4ka-the-best/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/lodo4ka-the-best/lodo4ka-the-best/output/github-snake.svg">
 </picture>
 
 ---
